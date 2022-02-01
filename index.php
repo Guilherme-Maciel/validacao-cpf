@@ -1,5 +1,6 @@
 <?php
 $message = '';
+
     if (isset($_GET['status'])) {
         switch ($_GET['status']) {
             case 'true':
