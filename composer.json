@@ -1,0 +1,8 @@
+{
+    "name":"guiz/cpf",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
